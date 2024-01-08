@@ -1,6 +1,6 @@
 # Custom Shell
 
-Simple custom shell written in Java Homework assignment for course [Selected Topics in Software Development 1](https://www.fer.unizg.hr/predmet/oprpp1).
+Simple custom shell written in Java. Homework assignment for course [Selected Topics in Software Development 1](https://www.fer.unizg.hr/predmet/oprpp1).
 
 ## Prerequisites
 
